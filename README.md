@@ -4,6 +4,7 @@
     <br>I got bachelor degree of <em>Beihang University</em> in 2020,
     <br>previously worked as an intern in <b>Baidu<b>、<b>ByteDance<b> company 
     <br>My current work focuses on high availability back-end :sparkles:
+    <br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <br><br>:coffee: Wanna chat? :point_right: send me an email  <em>mio_180@163.com</em>
   </samp>
